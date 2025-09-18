@@ -40,3 +40,7 @@ Now you can start chatting in real time!
 ## Contributing
 
 Feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
